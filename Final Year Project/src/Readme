@@ -1,0 +1,14 @@
+Stock Market prediction Using machine Learning:
+We are trying to come up with a product to help the user to find the best trading opportunity
+based on technical analysis in the intra-day market. We have had a look at some of the
+machine learning algorithms which we will be testing and training in the upcoming modules.
+
+How to install and Run The Project:
+1.There are four different Python Notebooks which contains our different algorithms.
+2.Install Jupyter notebook
+3.Download all the required libraries.
+4.Install Alpha Vantage.
+5.Run the code sequentially.
+
+The best accuracy obtained was by CNN model of morethan 75% .
+The Product can be used to determine presence of chart patterns in realtime.
